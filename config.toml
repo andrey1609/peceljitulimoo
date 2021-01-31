@@ -1,0 +1,4 @@
+baseURL = "https://bestquotesdroplity.vercel.app"
+languageCode = "en-us"
+title = "Quotes 2021"
+theme = "hugo-theme-minos"
